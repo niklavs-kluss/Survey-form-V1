@@ -18,3 +18,9 @@ body {
 .names {
   font-style: italic;
 }
+.emails {
+  font-style: italic;
+}
+#email {
+  width: 100%;
+}
